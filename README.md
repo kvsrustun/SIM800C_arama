@@ -1,11 +1,11 @@
 # 📞 SIM800C GSM ile Otomatik Sesli Arama Sistemi
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Donanım-Deneyap%20Kart%201A-007acc?style=for-the-badge&logo=espressif&logoColor=white" alt="Donanım" />
-  <img src="https://img.shields.io/badge/GSM%20Modülü-SIM800C%20Voice%20Call-e11d48?style=for-the-badge" alt="GSM" />
-  <img src="https://img.shields.io/badge/Protokol-Hayes%20ATD%20Dialing-3b82f6?style=for-the-badge" alt="ATD" />
-  <img src="https://img.shields.io/badge/Besleme-3.7V%202000mAh%20LiPo-f59e0b?style=for-the-badge" alt="Batarya" />
-  <img src="https://img.shields.io/badge/Lisans-MIT-brightgreen?style=for-the-badge" alt="Lisans" />
+  <a href="#donanimlar"><img src="https://img.shields.io/badge/Donan%C4%B1m-Deneyap%20Kart%201A-24292e?style=flat-square&logo=espressif" alt="Donanım" /></a>
+  <a href="#donanimlar"><img src="https://img.shields.io/badge/GSM%20Mod%C3%BCl%C3%BC-SIM800C%20Voice%20Call-24292e?style=flat-square" alt="GSM" /></a>
+  <a href="#arama-mantigi"><img src="https://img.shields.io/badge/Protokol-Hayes%20ATD%20Dialing-24292e?style=flat-square" alt="ATD" /></a>
+  <a href="#donanimlar"><img src="https://img.shields.io/badge/Besleme-3.7V%202000mAh%20LiPo-24292e?style=flat-square" alt="Batarya" /></a>
+  <a href="#lisans"><img src="https://img.shields.io/badge/Lisans-MIT-24292e?style=flat-square" alt="Lisans" /></a>
 </p>
 
 > **Acil durum uyarıları, güvenlik ve saha otomasyonları için;** Deneyap Kart 1A ve **SIM800C GSM modülü** kullanılarak internete ya da Wi-Fi ağına gerek kalmadan, doğrudan hücresel şebeke üzerinden belirlenen telefon numarasını **otomatik olarak sesli arayan (çaldıran)** otonom çağrı sistemi.
